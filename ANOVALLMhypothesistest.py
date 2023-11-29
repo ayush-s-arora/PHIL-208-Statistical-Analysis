@@ -19,8 +19,8 @@ dfGPT4Scores = dfGPT4.iloc[:,4]
 dfBardScores = dfBard.iloc[:,4]
 dfBingChatScores = dfBingChat.iloc[:,4]
 
-# Bartlett's Test for Equal Variance - same 0.05 significance level. Results printed to text file
-with open("All LLMs - Bartlett's Test for Equal Variance", "a") as f:
+# Bartlett's Test for Equal Variances - same 0.05 significance level. Results printed to text file
+with open("All LLMs - Bartlett's Test for Equal Variances", "a") as f:
     print(stats.bartlett(dfGPT35Scores, dfGPT4Scores, dfBardScores, dfBingChatScores), file = f)
 
 # ANOVA, results printed to text file
