@@ -13,6 +13,7 @@ dfGPT4 = pd.read_csv('dataGPT4.csv')
 dfBard = pd.read_csv('dataBard.csv')
 dfBingChat = pd.read_csv('dataBingChat.csv')
 
+# Dfs with only Job Trustworthiness scores
 dfGPT35Scores = dfGPT35.iloc[:,4]
 dfGPT4Scores = dfGPT4.iloc[:,4]
 dfBardScores = dfBard.iloc[:,4]
