@@ -7,7 +7,7 @@ from pandas.plotting import table
 largeLanguageModel = 'GPT 3.5'
 
 # Import raw data from Large Language Model as a dataframe
-df = pd.read_csv('dataBingChat.csv')
+df = pd.read_csv('dataGPT3.5.csv')
 
 # Separate df into two dataframes - one for good credit report prompts, one for bad credit report prompts
 dfGood = df[df['Prompt'] == 'promptgood']
