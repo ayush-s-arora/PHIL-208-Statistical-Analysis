@@ -1,0 +1,1 @@
+BartlettResult(statistic=100.62384960115565, pvalue=1.4119154325153826e-22)
