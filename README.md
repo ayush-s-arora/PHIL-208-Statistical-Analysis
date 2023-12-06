@@ -14,3 +14,9 @@ This repository is for my statistical analysis within our project. Using data fr
 ### ANOVA Results (see ANOVA files for source p-values):
 
 There was a statistically significant difference between the Job Trustworthiness scores for applicants with good credit reports among the 3 tested models but there was no difference for applicants with bad credit reports at the 95% confidence level.
+
+## [Video Presentation](https://youtu.be/SdnwQ4bxAgk)
+## Final Report (In Progress)
+
+## Credits
+Project created by Ayush S. Arora, Matthew Chan, Abhilasha Jain, Hamilton Wnag, and Jabez Williams.<br>A special thank you to Professor J.P. Messina, TA Archit Sahu, & TA Mickey Hernandez.<br>Produced for Purdue University's Ethics of Data Science course (PHIL 208).
