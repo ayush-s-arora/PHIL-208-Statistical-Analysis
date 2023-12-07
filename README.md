@@ -1,5 +1,5 @@
 # PHIL 208 Statistical Analysis
- Statistical Analysis of LLM "Job Trustworthiness" Scoring Data for PHIL 208 Data Science Ethics Project
+Statistical Analysis of LLM "Job Trustworthiness" Scoring Data for PHIL 208 Data Science Ethics Project
 
 ## About the Project
 Credit scores, despite being a metric originally developed to quantify a person’s ability to pay back their debts, have turned into a measure of a person’s trustworthiness. Credit scores now impact a person’s ability to rent a home, seek employment, and more. However, these scores do not directly demonstrate the degree to which an individual can be considered a trustworthy homeowner or job applicant.
@@ -15,7 +15,7 @@ This repository is for my statistical analysis within our project. Using data fr
 
 There was a statistically significant difference between the Job Trustworthiness scores for applicants with good credit reports among the 3 tested models but there was no difference for applicants with bad credit reports at the 95% confidence level.
 
-## [Video Presentation](https://youtu.be/SdnwQ4bxAgk)
+## [Video Presentation](https://youtu.be/13eB45BB1_0)
 ## Final Report (In Progress)
 
 ## Credits
